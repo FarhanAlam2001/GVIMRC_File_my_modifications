@@ -55,6 +55,13 @@ endif
 set mouse=a
 
 " ---------------------------
+" Color Scheme
+" ---------------------------
+syntax enable
+set termguicolors
+colorscheme darkblue
+
+" ---------------------------
 " Movement Key Mappings (Arrow keys only, as in the reference sheet:
 " Left/Down/Up/Right = h/j/k/l)
 " ---------------------------
